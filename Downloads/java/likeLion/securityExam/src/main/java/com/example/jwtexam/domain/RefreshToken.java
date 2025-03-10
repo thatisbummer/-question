@@ -4,6 +4,7 @@ import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
 
+// 리프레쉬 토큰을 데이터베이스에 저장하기 위한 엔티티
 @Entity
 @Getter
 @Setter

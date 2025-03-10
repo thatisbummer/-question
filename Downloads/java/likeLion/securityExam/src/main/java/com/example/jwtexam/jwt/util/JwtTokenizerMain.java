@@ -1,4 +1,4 @@
-package com.example.jwtexam.test.jwt.util;
+package com.example.jwtexam.jwt.util;
 
 import io.jsonwebtoken.Claims;
 
